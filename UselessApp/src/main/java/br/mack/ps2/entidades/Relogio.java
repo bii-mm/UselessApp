@@ -28,9 +28,7 @@ public class Relogio {
 
     @Override
     public String toString() {
-        return "Relogio{" +
-                "nome='" + nome + '\'' +
-                ", hora=" + hora +
-                '}';
+        return ("nome='" + nome + '\'' +
+                ", hora=" + hora);
     }
 }

@@ -1,4 +1,9 @@
 package br.mack.ps2;
+/*
+Nome: Bianca Maciel
+TIA: 31936873
+Turma: 3H
+ */
 import br.mack.ps2.persistencia.InterfaceUsuario;
 import br.mack.ps2.persistencia.RelogioDAOMySQL;
 import java.sql.*;

@@ -14,7 +14,7 @@ public class InterfaceUsuario {
 
     public void iniciar(){
         System.out.println("Bem-vindo(a) ao PerdiClock!");
-        System.out.println("\nBasta você me dizer o horário (apenas as horas) e eu te direi se é de manhã, tarde ou noite");
+        System.out.println("\nBasta você me dizer o horário (apenas as horas - entre 00 e 23) e eu te direi se é de manhã, tarde ou noite");
         imprimirMenu();
     }
 
